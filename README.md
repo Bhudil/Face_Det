@@ -11,11 +11,13 @@ OpenCV (pip install opencv-python)
 ## How to Use:
 
 Image Face Detection:
+
 Replace 'path_to_your_image.jpg' with the actual path to the image file you want to process.
 Run the script.
 A window will appear displaying the input image with detected faces outlined in green.
 
 Real-time Video Face Detection:
+
 Ensure your camera is connected and accessible.
 Run the script.
 A window will open showing the real-time video stream from your camera.
